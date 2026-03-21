@@ -2,33 +2,38 @@
     "menu": [
         {
             "id": 1,
-            "name": "Salads",
+            "name": "غوړی",
             "image": "https://george-fx.github.io/dinehub_api/assets/menu/01.jpg"
         },
         {
             "id": 2,
-            "name": "Meat",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/02.jpg"
+            "name": "وريجې",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/rice.png"
         },
         {
             "id": 3,
-            "name": "Pasta",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/03.jpg"
+            "name": "اوړه",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/floar.png"
         },
         {
             "id": 4,
-            "name": "Soups",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/04.jpg"
+            "name": "مېوې",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/friuts.png"
         },
         {
             "id": 5,
-            "name": "Hot meals",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/05.jpg"
+            "name": "سبزيجات",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/vegitable.png"
         },
         {
             "id": 6,
-            "name": "Fish",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/06.jpg"
+            "name": "بسکټ",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/biscuit.png"
+        },
+        {
+            "id": 7,
+            "name": "بسکټ",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/vegitable.png"
         }
     ]
 }
