@@ -310,9 +310,6 @@
       "description": "دا یو کلاسیک کولا څښاک دی، خوږ خوند لري او د کوکاکولا په شان خوند ورکوي.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -335,9 +332,6 @@
       "description": "دا د مالټې خوند لرونکی سوډا دی، تازه او خوږ خوند لري.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -361,9 +355,6 @@
       "description": "دا لیمو او لایم خوند لري، یخ او تازه کوونکی څښاک دی.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -387,9 +378,6 @@
       "description": "دا د مڼې او پودینې خوند لري، لږ خوږ او ډېر تازه کوونکی دی.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -413,9 +401,6 @@
       "description": "دا یو ساده سوډا څښاک دی، نرم خوند لري او عام استعمال لپاره ښه دی.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -439,9 +424,6 @@
       "description": "دا انرژي ډرنک دی، بدن ته ځواک ورکوي او ستړیا کموي.",
       "dietaryPreferences": [
         "Soft Drinks"
-        // "Low Carb",
-        // "Vegan Friendly",
-        // "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
