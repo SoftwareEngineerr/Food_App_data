@@ -294,6 +294,173 @@
       "isNew": false,
       "isHot": false,
       "menu": ["salads"]
-    }
+    },
+    {
+      "id": 12,
+      "name": "cola",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif"
+      ],
+      "description": "دا یو کلاسیک کولا څښاک دی، خوږ خوند لري او د کوکاکولا په شان خوند ورکوي.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+    {
+      "id": 13,
+      "name": "Orange",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif"
+      ],
+      "description": "دا د مالټې خوند لرونکی سوډا دی، تازه او خوږ خوند لري.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+    
+    {
+      "id": 14,
+      "name": "Breeze",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif"
+      ],
+      "description": "دا لیمو او لایم خوند لري، یخ او تازه کوونکی څښاک دی.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+
+    {
+      "id": 14,
+      "name": "Mint",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif"
+      ],
+      "description": "دا د مڼې او پودینې خوند لري، لږ خوږ او ډېر تازه کوونکی دی.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+    
+    {
+      "id": 14,
+      "name": "Wow",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif"
+      ],
+      "description": "دا یو ساده سوډا څښاک دی، نرم خوند لري او عام استعمال لپاره ښه دی.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+    
+    {
+      "id": 14,
+      "name": "Alokozay Energy",
+      "price": 19.99,
+      "weight": 250,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/energy.jfif",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/energy.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/energy.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/energy.jfif"
+      ],
+      "description": "دا انرژي ډرنک دی، بدن ته ځواک ورکوي او ستړیا کموي.",
+      "dietaryPreferences": [
+        "Soft Drinks"
+        // "Low Carb",
+        // "Vegan Friendly",
+        // "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["څښاک"]
+    },
+
+
+    
+
+
+    
+
+
+    
+
+
+
+    
   ]
 }
