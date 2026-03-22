@@ -21,16 +21,6 @@
             "name": "بورا",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/sugar.webp"
         },
-        // {
-        //     "id": 4,
-        //     "name": "مېوې",
-        //     "image": "https://softwareengineerr.github.io/Food_App_data/images/friuts.jfif"
-        // },
-        // {
-        //     "id": 5,
-        //     "name": "سبزيجات",
-        //     "image": "https://softwareengineerr.github.io/Food_App_data/images/vegitable.jfif"
-        // },
         {
             "id": 6,
             "name": "بسکټ",
