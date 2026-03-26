@@ -304,7 +304,7 @@
     {
       "id": 12,
       "name": "cola",
-      "price": 19.99,
+      "price": 459.99,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
@@ -313,7 +313,7 @@
         "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
         "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif"
       ],
-      "description": "دا یو کلاسیک کولا څښاک دی، خوږ خوند لري او د کوکاکولا په شان خوند ورکوي.",
+      "description": "دا یو کلاسیک کولا څښاک دی چې خوږ او خوندور ذایقه لري او د کوکاکولا په شان خوند ورکوي. دا محصول په یوه کارټن کې ۲۴ کینونه لري، چې د کور، ملګرو او محفلونو لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
         "Soft Drinks"
       ],
@@ -326,16 +326,16 @@
     {
       "id": 13,
       "name": "Orange",
-      "price": 19.99,
+      "price": 459.99,
       "weight": 250,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/orange.png",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/orange.jfif"
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/orange.png"
       ],
-      "description": "دا د مالټې خوند لرونکی سوډا دی، تازه او خوږ خوند لري.",
+      "description": "دا د مالټې خوند لرونکی تازه او خوږ سوډا څښاک دی چې ډېر خوندور او تازه کوونکی دی. دا محصول په یوه کارټن کې ۲۴ کینونه لري، چې د کور، محفلونو او ورځني استعمال لپاره مناسب دی.",
       "dietaryPreferences": [
         "Soft Drinks"
       ],
@@ -349,16 +349,16 @@
     {
       "id": 14,
       "name": "Breeze",
-      "price": 19.99,
+      "price": 459.99,
       "weight": 250,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/breeze.png",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/breeze.jfif"
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/breeze.png"
       ],
-      "description": "دا لیمو او لایم خوند لري، یخ او تازه کوونکی څښاک دی.",
+      "description": "دا د لیمو او لایم خوند لرونکی یخ او تازه کوونکی څښاک دی چې ډېر خوندور او سپک احساس ورکوي. دا محصول په یوه کارټن کې ۲۴ کینونه لري، چې د ورځني استعمال او محفلونو لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
         "Soft Drinks"
       ],
@@ -372,16 +372,16 @@
     {
       "id": 15,
       "name": "Mint",
-      "price": 19.99,
+      "price": 459.99,
       "weight": 250,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/mint.png",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/mint.jfif"
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/mint.png"
       ],
-      "description": "دا د مڼې او پودینې خوند لري، لږ خوږ او ډېر تازه کوونکی دی.",
+      "description": "دا د مڼې او پودینې خوند لرونکی تازه کوونکی څښاک دی، چې لږ خوږ او ډېر خوندور دی. دا محصول په یوه کارټن کې ۲۴ کینونه لري، چې د کور، ملګرو او محفلونو لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
         "Soft Drinks"
       ],
@@ -395,16 +395,16 @@
     {
       "id": 16,
       "name": "Wow",
-      "price": 19.99,
+      "price": 459.99,
       "weight": 250,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/wow.png",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/wow.jfif"
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.png",
+        "https://softwareengineerr.github.io/Food_App_data/images/wow.png"
       ],
-      "description": "دا یو ساده سوډا څښاک دی، نرم خوند لري او عام استعمال لپاره ښه دی.",
+      "description": "دا یو خوندور او نرم سوډا څښاک دی چې د ورځني استعمال لپاره مناسب دی. دا محصول په یوه کارټن کې ۲۴ کینونه لري، چې د کور، دوکان او محفلونو لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
         "Soft Drinks"
       ],
