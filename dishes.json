@@ -2,95 +2,97 @@
   "dishes": [
     {
       "id": 1,
-      "name": "Caesar with Chicken",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
+      "name": "غوړی",
+      "price": 549.99,
+      "weight": "5 لیټره",
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/oil.jpg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg"
+        "https://softwareengineerr.github.io/Food_App_data/images/oil.jpg",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil.jpg",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil.jpg"
       ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "description": "دا ۵ لیټره روسي د پخلي تېل دي چې د خوړو د خوند او کیفیت لوړولو لپاره مناسب دي. دا تېل پاک، صحي او د ورځني استعمال لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
+        "صحي د پخلي تېل",
+        "د زړه لپاره ګټور",
+        "پاک او خالص",
+        "د ورځني استعمال لپاره مناسب",
+        "د خوړو خوند زیاتوي"
       ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["salads"]
+      "menu": ["غوړی"]
     },
     {
       "id": 2,
-      "name": "Creamy Chicken Alfredo",
-      "price": 13.49,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
+      "name": "بورا",
+      "price": 299.99,
+      "weight": 4.4,
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/sugar.jpeg",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg"
+        "https://softwareengineerr.github.io/Food_App_data/images/sugar.jpeg",
+        "https://softwareengineerr.github.io/Food_App_data/images/sugar.jpeg",
+        "https://softwareengineerr.github.io/Food_App_data/images/sugar.jpeg"
       ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "description": "دا ۴.۴ کیلو (یو مڼ) خالص بوره ده چې د چای، خوږو او نورو خوړو لپاره کارېږي. دا بوره پاکه، سپینه او د ورځني استعمال لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": true,
-      "isHot": false,
-      "menu": ["meat", "hot meals"]
-    },
-    {
-      "id": 3,
-      "name": "Pan-Seared Salmon",
-      "price": 15.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
-      "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar"
+        "خوږ خوند",
+        "د انرژۍ سرچینه",
+        "د چای او خوږو لپاره مناسب"
       ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat", "hot meals", "fish"]
+      "menu": ["بورا"]
+    },
+
+    
+    {
+      "id": 3,
+      "name": "Pan-Seared Salmon",
+      "price": 389.99,
+      "weight": "3 لیټره",
+      "kcal": "",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/oil3liter.jpeg",
+      "images": [
+        "https://softwareengineerr.github.io/Food_App_data/images/oil3liter.jpeg",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil3liter.jpeg",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil3liter.jpeg"
+      ],
+      "description": "دا ۳ لیټره خالص د پخلي تېل دي چې د ورځني استعمال لپاره مناسب دي. دا تېل پاک، معیاري او د خوړو خوند زیاتوي، ستاسو د پخلي لپاره غوره انتخاب دی.",
+      "dietaryPreferences": [
+        "خوږ خوند",
+        "د انرژۍ سرچینه",
+        "د چای او خوږو لپاره مناسب"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["غوړی"]
     },
     {
       "id": 4,
       "name": "Roasted Tomato Soup",
-      "price": 6.99,
-      "weight": 200,
+      "price": 1159.99,
+      "weight": "10 لیټره",
       "kcal": 110,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
       "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg"
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF"
       ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "description": "دا ۱۰ لیټره خالص د پخلي تېل دي چې د ورځني استعمال لپاره مناسب دي. دا تېل پاک، معیاري او د خوړو خوند زیاتوي، ستاسو د پخلي لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
-        "Low Calorie",
-        "Low Fat",
-        "Vegetarian"
+        "خوږ خوند",
+        "د انرژۍ سرچینه",
+        "د چای او خوږو لپاره مناسب"
       ],
       "rating": "5,0",
       "isRecommended": true,
