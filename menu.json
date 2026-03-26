@@ -7,34 +7,40 @@
         },
         {
             "id": 2,
-            "name": "وريجې",
-            "image": "https://softwareengineerr.github.io/Food_App_data/images/rice.jfif"
+            "name": "څښاک",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/softdrinks.jpg"
         },
         {
             "id": 3,
-            "name": "اوړه",
-            "image": "https://softwareengineerr.github.io/Food_App_data/images/floar.jfif"
+            "name": "بورا",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/sugar.webp"
         },
         
         {
             "id": 4,
-            "name": "بورا",
-            "image": "https://softwareengineerr.github.io/Food_App_data/images/sugar.webp"
+            "name": "دال",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/dal.webp"
+        },
+        {
+            "id": 5,
+            "name": "وريجې",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/rice.jfif"
         },
         {
             "id": 6,
+            "name": "اوړه",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/floar.jfif"
+        },
+        {
+            "id": 7,
             "name": "بسکټ",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/biscuit.jfif"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "ناشته",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/snacks.jfif"
-        },
-        {
-            "id": 8,
-            "name": "څښاک",
-            "image": "https://softwareengineerr.github.io/Food_App_data/images/softdrinks.jpg"
         }
+        
     ]
 }
