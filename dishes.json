@@ -82,11 +82,11 @@
       "price": 1159.99,
       "weight": "10 لیټره",
       "kcal": 110,
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.jfif",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
-        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF",
-        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.JFIF"
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.jfif"
       ],
       "description": "دا ۱۰ لیټره خالص د پخلي تېل دي چې د ورځني استعمال لپاره مناسب دي. دا تېل پاک، معیاري او د خوړو خوند زیاتوي، ستاسو د پخلي لپاره غوره انتخاب دی.",
       "dietaryPreferences": [
