@@ -313,11 +313,11 @@
       "price": 299.99,
       "weight": "۱ کیلو" ,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/greentea.webp",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/greentea.webp",
-        "https://softwareengineerr.github.io/Food_App_data/images/greentea.webp",
-        "https://softwareengineerr.github.io/Food_App_data/images/greentea.webp"
+        "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif",
+        "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif"
       ],
       "description": "دا شنه چای یو لوړ کیفیت لرونکی، خالص او طبیعي چای دی چې د روغتیا او تازګۍ لپاره ډېر ګټور دی. دا چای سپک خوند، طبیعي خوشبويي او آرام بخښونکی تاثیر لري، چې ستاسو ورځ تازه او ارامه کوي.",
       "dietaryPreferences": [

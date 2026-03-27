@@ -23,21 +23,27 @@
         },
         {
             "id": 5,
+            "name": "چای",
+            "image": "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif"
+        },
+
+        {
+            "id": 6,
             "name": "وريجې",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/rice.jfif"
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "اوړه",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/floar.jfif"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "بسکټ",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/biscuit.jfif"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "ناشته",
             "image": "https://softwareengineerr.github.io/Food_App_data/images/snacks.jfif"
         }
