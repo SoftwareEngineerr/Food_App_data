@@ -246,11 +246,11 @@
       "price": 120,
       "weight": "۱ چاريک" ,
       "kcal": "",
-      "image": "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jfif",
+      "image": "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jpg",
       "images": [
-        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jfif",
-        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jfif"
+        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jpg",
+        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jpg",
+        "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jpg"
       ],
       "description": "داناکود دال پاک، تازه او معیاري دی. د ورځني خوراک لپاره مناسب دی او ستاسو د خوړو خوند دوه برابره کوي. د کورنۍ خوړو ته تازه والی او خوند ور اضافه کوي. همدا نن واخلئ او د خپلو خوړو مزه لوړه کړئ!",
       "dietaryPreferences": [
