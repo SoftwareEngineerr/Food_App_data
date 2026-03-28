@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "روسي غوړی  ۵ لیټره",
-      "price": 549.99,
+      "price": 600,
       "weight": "۵ لیټره",
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/oil.jpg",
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "name": "بورا",
-      "price": 299.99,
+      "price": 300,
       "weight": 4.4,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/sugar.jpeg",
@@ -55,7 +55,7 @@
     {
       "id": 3,
       "name": " صرافۍ پخلی غوړی",
-      "price": 389.99,
+      "price": 390,
       "weight": "3 لیټره",
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/oil3liter.jpeg",
@@ -81,7 +81,7 @@
     {
       "id": 4,
       "name": " صرافۍ پخلی غوړی",
-      "price": 1159.99,
+      "price": 1160,
       "weight": "10 لیټره",
       "kcal": 110,
       "image": "https://softwareengineerr.github.io/Food_App_data/images/oil10liter.jpg",
@@ -107,7 +107,7 @@
     {
       "id": 12,
       "name": "cola",
-      "price": 459.99,
+      "price": 460,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/cola.jfif",
@@ -129,7 +129,7 @@
     {
       "id": 13,
       "name": "Orange",
-      "price": 459.99,
+      "price": 460,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/orange.png",
@@ -152,7 +152,7 @@
     {
       "id": 14,
       "name": "Breeze",
-      "price": 459.99,
+      "price": 460,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/breeze.png",
@@ -175,7 +175,7 @@
     {
       "id": 15,
       "name": "Mint",
-      "price": 459.99,
+      "price": 460,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/mint.png",
@@ -198,7 +198,7 @@
     {
       "id": 16,
       "name": "Wow",
-      "price": 459.99,
+      "price": 460,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/wow.png",
@@ -221,7 +221,7 @@
     {
       "id": 17,
       "name": "Alokozay Energy",
-      "price": 59.99,
+      "price": 60,
       "weight": 250,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/energy.jfif",
@@ -243,7 +243,7 @@
     {
       "id": 18,
       "name": "دال",
-      "price": 119.99,
+      "price": 120,
       "weight": "۱ چاريک" ,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/dalnakod.jfif",
@@ -266,7 +266,7 @@
     {
       "id": 19,
       "name": " سور دال",
-      "price": 119.99,
+      "price": 120,
       "weight": "۱ چاريک" ,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/reddal.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 20,
       "name": " ژیړ دال  ",
-      "price": 119.99,
+      "price": 120,
       "weight": "۱ چاريک" ,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/yellowdal.webp",
@@ -310,7 +310,7 @@
     {
       "id": 21,
       "name": "  شنه چای  ",
-      "price": 299.99,
+      "price": 300,
       "weight": "۱ کیلو" ,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/greentea.jfif",
@@ -332,7 +332,7 @@
     {
       "id": 22,
       "name": "  تور چای  ",
-      "price": 399.99,
+      "price": 400,
       "weight": "۱ کیلو" ,
       "kcal": "",
       "image": "https://softwareengineerr.github.io/Food_App_data/images/blacktea.jpg",
